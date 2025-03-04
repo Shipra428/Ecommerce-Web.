@@ -56,7 +56,7 @@ export default function Navbar() {
             >
                 <Link to="/" className="navbar-brand p-0">
                     <i className='fa fa-shopping-bag text-primary fs-1 me-2'></i>
-                    <h1 className="m-0 text-primary">Ducart</h1>
+                    <h1 className="m-0 text-primary">Shopy</h1>
                 </Link>
                 <button
                     type="button"
